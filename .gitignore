@@ -1,3 +1,4 @@
+#Gitignore
 x64/
 .vs/
 Debug/
